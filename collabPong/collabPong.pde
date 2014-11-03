@@ -1,5 +1,5 @@
 //This is a test
-//by Marco O Weibel
+//by Marco Weibel
 
 void setup () {
   
